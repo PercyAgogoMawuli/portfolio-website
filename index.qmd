@@ -1,6 +1,6 @@
 ---
 title: "Percy Agogo-Mawuli"
-image: /media/portfolio_pic.jpeg
+image: /media/portfolio_pic.jpg
 toc: false
 about: 
   template: jolla
