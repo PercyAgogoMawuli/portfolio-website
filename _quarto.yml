@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Percy Agogo-Mawuli"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - certifications.qmd
+        
+
+format:
+  html:
+    theme: 
+      light: minty
+      dark: solar
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+

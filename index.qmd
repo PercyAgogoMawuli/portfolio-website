@@ -1,0 +1,24 @@
+---
+title: "Percy Agogo-Mawuli"
+image: /media/portfolio_pic.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/percy-agogo-mawuli/
+      target: _blank
+    - text: GitHub
+      href: https://github.com/PercyAgogoMawuli
+      target: _blank 
+    - text: Email
+      href: mailto:sellasiemawuli3@gmail.com
+---
+
+Welcome to my cyberspace! I am Percy Agogo-Mawuli, a scientist and researcher in bioinformatics and clinical data science with expertise in pharmacology, clinical genetics and neuroscience. 
+Trained first in pharmacy and then in biomedical science, I now study how genetic variations shape disease and treatment response. My ultimate goal is to close the gap between those findings and the patients who need them.
+On a daily basis, I work in Python, R, SQL and Bash, with multiple modalities of biological, chemical and clinical data on HPC and cloud (GCP) systems.
+
+

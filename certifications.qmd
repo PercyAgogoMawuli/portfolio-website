@@ -1,0 +1,42 @@
+---
+title: "Certifications"
+---
+
+**Johns Hopkins University**
+
+- [Statistics for Genomic Data Science](https://www.coursera.org/account/accomplishments/verify/XNLSU1K5THP2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Command Line Tools for Genomic Data Science](https://www.coursera.org/account/accomplishments/verify/C7TDU88UBLG2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Advanced Reproducibility in Cancer Informatics](https://www.coursera.org/account/accomplishments/verify/BRSESJ2P1MB9?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+**Stanford University**
+
+- [Fundamentals of AI/ML in Precision Medicine](media/stanford.jpeg)
+
+**Wellcome Sanger Institute**
+
+- [An Introduction to Linux, Bash Scripting and R](https://www.futurelearn.com/certificates/9sp60tm)
+- [Analysing and Interpreting Genomics Datasets](https://www.futurelearn.com/certificates/5l86tv5)
+
+**Fred Hutch Cancer Center**
+- [Wrangling Computing Environments: Using Docker for Research](https://www.coursera.org/account/accomplishments/verify/NKDJTQ5U7LSI)
+
+**WorldQuant University**
+- [Applied Data Science Lab](https://www.credly.com/badges/935a1549-865a-4756-abf9-37f0e9e9577f/public_url)
+
+**IBM**
+
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/UM73X2MBXRCF)
+- [Python Project for Data Engineering](https://www.coursera.org/account/accomplishments/verify/EZQTFFH1NZM0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/EZQTFFH1NZM0?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Deep Learning with TensorFlow](https://courses.cognitiveclass.ai/certificates/4982f7165f69487d8dccbf259d842b26)
+
+**Udacity**
+
+- [Generative AI Nanodegree](https://www.udacity.com/certificate/e/4a6405e6-f939-11ef-9626-8be9939a9c30)
+- [Foundation of Generative AI](https://www.udacity.com/certificate/e/235a4a7c-b7bd-11ef-a265-2b1ede9e773b)
+
+**Schrödinger**
+
+- [Introduction to Molecular Modelling in Drug Discovery](https://badges.parchment.com/public/assertions/cyljDUGxT8-Z1FBZgXWgjQ?identity__email=percyagogo-mawuli@my.unthsc.edu)
+- [High-Throughput Virtual Screening for Hit Finding and Evaluation](https://badges.parchment.com/public/assertions/M_M6rPvQRyOK5IoONYkHaQ?identity__email=percyagogo-mawuli@my.unthsc.edu)
+- [Free Energy Calculations for Drug Design with FEP+](https://badges.parchment.com/public/assertions/KIetulEZS4y8GL2txRYqVA?identity__email=percyagogo-mawuli@my.unthsc.edu)
