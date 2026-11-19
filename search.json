@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Percy Agogo-Mawuli",
+    "section": "",
+    "text": "Welcome to my cyberspace! I am Percy Agogo-Mawuli, a scientist and researcher in bioinformatics and clinical data science with expertise in pharmacology, clinical genetics and neuroscience. Trained first in pharmacy and then in biomedical science, I now study how genetic variations shape disease and treatment response. My ultimate goal is to close the gap between those findings and the patients who need them. On a daily basis, I work in Python, R, SQL and Bash, with multiple modalities of biological, chemical and clinical data on HPC and cloud (GCP) systems."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "certifications.html",
+    "href": "certifications.html",
+    "title": "Certifications",
+    "section": "",
+    "text": "Johns Hopkins University\n\nStatistics for Genomic Data Science\nCommand Line Tools for Genomic Data Science\nAdvanced Reproducibility in Cancer Informatics\n\nStanford University\n\nFundamentals of AI/ML in Precision Medicine\n\nWellcome Sanger Institute\n\nAn Introduction to Linux, Bash Scripting and R\nAnalysing and Interpreting Genomics Datasets\n\nFred Hutch Cancer Center - Wrangling Computing Environments: Using Docker for Research\nWorldQuant University - Applied Data Science Lab\nIBM\n\nHands-on Introduction to Linux Commands and Shell Scripting\nPython Project for Data Engineering\nMachine Learning with Python\nDeep Learning with TensorFlow\n\nUdacity\n\nGenerative AI Nanodegree\nFoundation of Generative AI\n\nSchrödinger\n\nIntroduction to Molecular Modelling in Drug Discovery\nHigh-Throughput Virtual Screening for Hit Finding and Evaluation\nFree Energy Calculations for Drug Design with FEP+"
+  }
+]
